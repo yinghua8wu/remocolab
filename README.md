@@ -168,3 +168,14 @@ remocolab.setupVNC()
 ```
 
 4. Follow instructions from step 4 in above "How to use".
+
+
+
+
+```
+function ClickConnect(){
+console.log("Working"); 
+document.querySelector("colab-toolbar-button#connect​").click() 
+}
+setInterval(ClickConnect,60000)
+```
