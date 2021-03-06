@@ -171,7 +171,7 @@ remocolab.setupVNC()
 
 
 
-
+5.keep alive
 ```
 function ClickConnect(){
 console.log("Working"); 
